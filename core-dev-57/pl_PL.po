@@ -20466,7 +20466,7 @@ msgstr "Wyłacz - Dobre do debugu wygenerowanego wyniku CSS."
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:50
 msgid "enable source maps in generated CSS files"
-msgstr ""
+msgstr "włącz mapy źródeł dla generowanych plików CSS"
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:63
 msgid "Stores the generation of CSS and JavaScript assets"
@@ -20502,7 +20502,7 @@ msgstr "Wyłączony - włącz ręcznie dla wybranych podstron"
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:110
 msgid "On - If blocks on the particular page allow it."
-msgstr "Włącz - jeśli bloke na poszczególnych stronach na to zezwalają."
+msgstr "Włącz - jeśli bloki na poszczególnych stronach na to zezwalają."
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:117
 msgid "On - In all cases."
