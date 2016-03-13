@@ -1309,7 +1309,7 @@ msgstr "zdjęcia, Zdjęcie, elastyczne, siatkówki"
 #: concrete/config/install/base/dashboard.xml:625
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:3
 msgid "Image Uploading"
-msgstr ""
+msgstr "Przesyłanie obrazu"
 
 # Keywords for page /dashboard/system/files/image_uploading
 #: concrete/config/install/base/dashboard.xml:628
@@ -6561,7 +6561,7 @@ msgstr "Dozwolone typy plików zapisane."
 
 #: concrete/controllers/single_page/dashboard/system/files/image_uploading.php:21
 msgid "Image uploading settings saved."
-msgstr ""
+msgstr "Ustawienia przesyłania obrazu zapisane."
 
 #: concrete/controllers/single_page/dashboard/system/files/storage.php:33
 msgid "File storage location added."
@@ -18988,23 +18988,23 @@ msgstr "Tylko pliki z następującymi rozszerzeniami będą dozwolone. Oddzielaj
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:11
 msgid "Image Resizing"
-msgstr ""
+msgstr "Zmiana rozmiaru obrazu"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:18
 msgid "Automatically resize uploaded images"
-msgstr ""
+msgstr "Automatycznie zmieniaj rozmiar przesyłanych obrazów"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:24
 msgid "Maximum Width"
-msgstr ""
+msgstr "Maksymalna Szerokość"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:33
 msgid "Maximum Height"
-msgstr ""
+msgstr "Maksymalna Wysokość"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:42
 msgid "Image Compression Quality"
-msgstr ""
+msgstr "Jakość Kompresji obrazu"
 
 #: concrete/single_pages/dashboard/system/files/permissions.php:17
 #: concrete/single_pages/dashboard/system/permissions/tasks.php:17
