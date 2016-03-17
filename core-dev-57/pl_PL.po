@@ -8,13 +8,14 @@
 # SeeSite <biuro@seesite.pl>, 2015
 # voluu <volgrafik@gmail.com>, 2015
 # htarlov <zbyszek.matuszewski@gmail.com>, 2015
+# exa18 <julian.cenkier@wp.eu>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: http://www.concrete5.org/developers/bugs/\n"
 "POT-Creation-Date: 2016-02-17 05:00+0000\n"
-"PO-Revision-Date: 2016-02-17 10:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2016-03-14 08:15+0100\n"
+"Last-Translator: Julian Cenkier <julian.cenkier@wp.eu>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/concrete5/concrete5/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1309,12 +1310,12 @@ msgstr "zdjęcia, Zdjęcie, elastyczne, siatkówki"
 #: concrete/config/install/base/dashboard.xml:625
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:3
 msgid "Image Uploading"
-msgstr ""
+msgstr "Przesyłanie obrazu"
 
 # Keywords for page /dashboard/system/files/image_uploading
 #: concrete/config/install/base/dashboard.xml:628
 msgid "uploading, upload, images, image, resizing, manager"
-msgstr ""
+msgstr "przesyłanie, prześlij, obrazy, obraz, zmiana rozmiaru, menadżer"
 
 #: concrete/config/install/base/dashboard.xml:633
 msgid "File Storage Locations"
@@ -6561,7 +6562,7 @@ msgstr "Dozwolone typy plików zapisane."
 
 #: concrete/controllers/single_page/dashboard/system/files/image_uploading.php:21
 msgid "Image uploading settings saved."
-msgstr ""
+msgstr "Ustawienia przesyłania obrazu zapisane."
 
 #: concrete/controllers/single_page/dashboard/system/files/storage.php:33
 msgid "File storage location added."
@@ -18988,23 +18989,23 @@ msgstr "Tylko pliki z następującymi rozszerzeniami będą dozwolone. Oddzielaj
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:11
 msgid "Image Resizing"
-msgstr ""
+msgstr "Zmiana rozmiaru obrazu"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:18
 msgid "Automatically resize uploaded images"
-msgstr ""
+msgstr "Automatycznie zmieniaj rozmiar przesyłanych obrazów"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:24
 msgid "Maximum Width"
-msgstr ""
+msgstr "Maksymalna Szerokość"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:33
 msgid "Maximum Height"
-msgstr ""
+msgstr "Maksymalna Wysokość"
 
 #: concrete/single_pages/dashboard/system/files/image_uploading.php:42
 msgid "Image Compression Quality"
-msgstr ""
+msgstr "Jakość Kompresji obrazu"
 
 #: concrete/single_pages/dashboard/system/files/permissions.php:17
 #: concrete/single_pages/dashboard/system/permissions/tasks.php:17
@@ -20466,7 +20467,7 @@ msgstr "Wyłacz - Dobre do debugu wygenerowanego wyniku CSS."
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:50
 msgid "enable source maps in generated CSS files"
-msgstr ""
+msgstr "włącz mapy źródeł dla generowanych plików CSS"
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:63
 msgid "Stores the generation of CSS and JavaScript assets"
@@ -20502,7 +20503,7 @@ msgstr "Wyłączony - włącz ręcznie dla wybranych podstron"
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:110
 msgid "On - If blocks on the particular page allow it."
-msgstr "Włącz - jeśli bloke na poszczególnych stronach na to zezwalają."
+msgstr "Włącz - jeśli bloki na poszczególnych stronach na to zezwalają."
 
 #: concrete/single_pages/dashboard/system/optimization/cache.php:117
 msgid "On - In all cases."
