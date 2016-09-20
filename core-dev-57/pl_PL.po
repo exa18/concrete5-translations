@@ -18148,7 +18148,7 @@ msgstr "Wznowienie Kopiuj"
 
 #: concrete/single_pages/dashboard/sitemap/full.php:71
 msgid "Include System Pages in Sitemap"
-msgstr "Dołącz Strony SYstemowe do Mapy strony"
+msgstr "Dołącz Strony Systemowe do Mapy strony"
 
 #: concrete/single_pages/dashboard/sitemap/search.php:19
 msgid "You must have access to the dashboard sitemap to search pages."
